@@ -3,6 +3,8 @@
 
 *Specialized in technical support, with strong problem-solving skills and attention to detail. I handle tasks and technical issues with a structured, solution-oriented approach, ensuring reliability and timely execution.*
 
+*In my free time I am also a Python and HTML, CSS, JavaScript developer: I like develop useful websites and Python scripts.*
+
 *Collaborative and focused on continuous improvement, I continuously develop my skills to support the efficiency and stability of IT systems.*
 
 My main key strengths:<br>
