@@ -1,5 +1,5 @@
 # **🇮🇹Andrea De Vita 👋**<br>
-## 🧑‍💻**IT Tech Support, Help Desk Specialist and Python and HTML, CSS, JavaScript developer.**
+## 🧑‍💻**IT Tech Support, Help Desk Specialist and Python and HTML, CSS, JS developer.**
 
 *Specialized in technical support, with strong problem-solving skills and attention to detail. I handle tasks and technical issues with a structured, solution-oriented approach, ensuring reliability and timely execution.*
 
