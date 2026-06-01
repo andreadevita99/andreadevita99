@@ -1,6 +1,13 @@
+<a title="After Katsushika Hokusai, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Great_Wave_off_Kanagawa2.jpg"><img width="960" alt="The Great Wave of Kanagawa, by Katsushika Hokusai" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Great_Wave_off_Kanagawa2.jpg/960px-Great_Wave_off_Kanagawa2.jpg"></a>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=50&pause=1000&color=00FF00&vCenter=true&width=500&lines=%3CADV%2F%3E)](https://git.io/typing-svg)
 
-# **🇮🇹Andrea De Vita 👋**<br>
+    root@terminal~$ whoami
+        📍 Based in 🇮🇹
+        🧭 
+        🎂 XXVI - I - MCMXCIX
+        🩸 A.V.I.S. B+ group blood donor
+
 ## 🧑‍💻**IT Tech Support, Help Desk Specialist and Python and HTML, CSS, JS developer.**
 
 *Specialized in technical support, with strong problem-solving skills and attention to detail. I handle tasks and technical issues with a structured, solution-oriented approach, ensuring reliability and timely execution.*
@@ -68,7 +75,9 @@
 | 🇪🇸Spanish | A1 *(Beginner)* |
 | 🇫🇷French  | A1 *(Beginner)* |
 
-<h4 align="left">Social:</h4>
-<p align="left">
-<a href="https://www.instagram.com/andreadevita99/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-</p>
+<h4>Social:</h4>
+
+[![github](https://www.readmecodegen.com/api/social-icon?name=github&size=72&theme=dark&color=%23ffffff&link=https%3A%2F%2Fgithub.com%2Fandreadevita99)](https://github.com/andreadevita99)
+[![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&size=72&theme=dark&color=FF0069&link=https%3A%2F%2Fwww.instagram.com%2Fandreadevita99%2F)](https://www.instagram.com/andreadevita99/)
+[![strava](https://www.readmecodegen.com/api/social-icon?name=strava&size=72&link=https%3A%2F%2Fwww.strava.com%2Fathletes%2F88713157%3Fnum_entries%3D10)](https://www.strava.com/athletes/88713157?num_entries=10)
+[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=72&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrea-devita%2F)](https://www.linkedin.com/in/andrea-devita/)
