@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=50&pause=1000&color=00FF00&vCenter=true&width=500&lines=%3CADV%2F%3E)](https://git.io/typing-svg)
+
 # **🇮🇹Andrea De Vita 👋**<br>
 ## 🧑‍💻**IT Tech Support, Help Desk Specialist and Python and HTML, CSS, JS developer.**
 
@@ -41,19 +43,11 @@
 }
 ```
 
-**✅IT Skills**:
-```json
-{
-  "Microsoft Office": "Word, Excel, PowerPoint, Outlook, Teams, OneNote"
-  "Google Workspace": "Docs, Sheets, Slides, Drive, Calendar"
-  "OS": "Windows, macOS, Android · Linux (Ubuntu, Pop!_OS, Tails, Qubes OS, Kali Linux, Parrot OS)"
-  "Dev": "Python, HTML, CSS, JavaScript, Markdown · Git/GitHub · VS Code, Google Antigravity · Terminal"
-  "Virtualisation": "UTM, VirtualBox"
-  "AI": "ChatGPT, DeepSeek, Jan"
-  "Remote Support": "AnyDesk, ISL, Supremo, TeamViewer"
-  "Graphic": "Figma, Blender, GIMP, Canva, Affinity"
-}
-```
+**✅IT Skills**:<br>
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=visualstudiocode-dark,html,css,javascript,python-dark,markdown-dark)](https://i.icoziv.workers.dev)
+
+**👾My favourite Linux distros**:<br>
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=linux-dark,ubuntu-dark,popos,qubesos-dark,kalilinux-dark,parrotos-dark)](https://i.icoziv.workers.dev) , I like to run them in [![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=virtualbox-dark)](https://i.icoziv.workers.dev)
 
 **🚀Projects**:
 |HTML - CSS - JS  | Python - Shell |
