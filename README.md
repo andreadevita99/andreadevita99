@@ -1,6 +1,6 @@
-<a title="After Katsushika Hokusai, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Great_Wave_off_Kanagawa2.jpg"><img width="960" alt="The Great Wave of Kanagawa, by Katsushika Hokusai" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Great_Wave_off_Kanagawa2.jpg/960px-Great_Wave_off_Kanagawa2.jpg"></a>
+<a title="After Katsushika Hokusai, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Great_Wave_off_Kanagawa2.jpg"><img width="960" alt="The Great Wave of Kanagawa, by Katsushika Hokusai" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Great_Wave_off_Kanagawa2.jpg/960px-Great_Wave_off_Kanagawa2.jpg"></a><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=50&pause=1000&color=00FF00&vCenter=true&width=500&lines=%3CADV%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=50&pause=1000&color=00FF00&vCenter=true&width=500&lines=%3CADV%2F%3E)](https://git.io/typing-svg)<br>
 
     root@terminal~$ whoami
         📍 Based in 🇮🇹
