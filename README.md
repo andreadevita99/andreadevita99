@@ -62,8 +62,8 @@
 |[Clipt](https://andreadevita99.github.io/Clipt/)|[Mr.-Matrix](https://github.com/andreadevita99/Mr.-Matrix)|
 |[QR-Code-Generator](https://andreadevita99.github.io/QR-Code-Generator/)| [PyPassGen](https://github.com/andreadevita99/PyPassGen)|
 |[Text-to-Binary](https://andreadevita99.github.io/Text-to-Binary-Converter/)|[PyCalc](https://github.com/andreadevita99/PyCalc)|
-|[Rickroll](https://andreadevita99.github.io/rickroll/)|[Python-Currency-Converter](https://github.com/andreadevita99/Python-Currency-Converter)|
-|  |[Guess-the-number-game](https://github.com/andreadevita99/Guess-the-number-game)|
+|[LEET-Converter](https://andreadevita99.github.io/Leet-Converter/)|[Python-Currency-Converter](https://github.com/andreadevita99/Python-Currency-Converter)|
+| [Rickroll](https://andreadevita99.github.io/rickroll/) |[Guess-the-number-game](https://github.com/andreadevita99/Guess-the-number-game)|
 |  |[Python-Text-Encryptor](https://github.com/andreadevita99/Python-Text-Encryptor)|
 |  |[Brew_up](https://github.com/andreadevita99/Brew_up)|
 
