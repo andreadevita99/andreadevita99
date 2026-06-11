@@ -4,9 +4,9 @@
 
     root@terminal~$ whoami
         📍 Based in 🇮🇹
-        🧭 
         🎂 XXVI - I - MCMXCIX
         🩸 A.V.I.S. B+ group blood donor
+        🇯🇵 生田早見 ⛩
 
 ## 🧑‍💻**IT Tech Support, Help Desk Specialist and Python and HTML, CSS, JS developer.**
 
@@ -30,7 +30,7 @@
       <ul><li>Chilling</li><li>Play with my dog</li><li>Go for a bike ride</li><li>Read books on my Kindle</li><li>Listen to music</li><li>Watch documentaries/docu-series</li><li>Hang out with friends</li><li>Snowboard</li><li>LEGO</li></ul>
     </td>
     <td valign="top">
-      <ul><li>生田早見</li><li>Focus</li><li>Do More</li><li>Scuse. Sono tutte scuse.</li></ul>
+      <ul><li>Focus</li><li>Do More</li><li>Scuse. Sono tutte scuse.</li></ul>
     </td>
   </tr>
 </table>
