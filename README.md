@@ -51,10 +51,18 @@
 ```
 
 **✅IT Skills**:<br>
-[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=visualstudiocode-dark,html,css,javascript,python-dark,markdown-dark)](https://i.icoziv.workers.dev)
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=visualstudiocode-dark,html,css,javascript,python-dark,markdown-dark)](https://i.icoziv.workers.dev) [![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=atom,notepadplusplus)](https://i.icoziv.workers.dev)
 
 **👾My favourite Linux distros**:<br>
 [![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=linux-dark,ubuntu-dark,popos,qubesos-dark,kalilinux-dark,parrotos-dark)](https://i.icoziv.workers.dev) , I like to run them in [![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=virtualbox-dark)](https://i.icoziv.workers.dev)
+
+**🔎Other Skills**:
+ - OS: [![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=windows-dark,macos-dark,android-dark)](https://i.icoziv.workers.dev)
+ - Microsoft Office: [![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=word-dark,excel-dark,microsoftpowerpoint-dark,microsoftoutlook-dark,microsoftteams-dark,microsoftonenote-dark)](https://i.icoziv.workers.dev)
+ - Web browser: [![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=brave-dark,googlechrome-dark)](https://i.icoziv.workers.dev)
+ - Google Workspace: [![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=googledocs-dark,googlesheets-dark,googleslides-dark,googledrive-dark)](https://i.icoziv.workers.dev)
+ - AI: [![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=chatgpt,deepseek,googlegemini-dark)](https://i.icoziv.workers.dev)
+ - Graphic: [![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=canva,gimp-dark,figma-dark,blender-dark)](https://i.icoziv.workers.dev)
 
 **🚀Projects**:
 | HTML - CSS - JS | Python - Shell |
