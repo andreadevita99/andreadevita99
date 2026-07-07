@@ -75,7 +75,7 @@
 | [LEET-Converter](https://andreadevita99.github.io/Leet-Converter/) | [Python-Text-Encryptor](https://github.com/andreadevita99/Python-Text-Encryptor) |
 | [Rickroll](https://andreadevita99.github.io/rickroll/) | [Brew_up](https://github.com/andreadevita99/Brew_up) |
 
-## Check out my [<ins>🎓IT certifications</ins>](https://andreadevita99.github.io/IT-Certificates-Portfolio/) & my [<ins>🗂Database Hub</ins>](https://andreadevita99.github.io/Database-Hub/) !
+## Check out my [<ins>🎓IT certifications</ins>](https://andreadevita99.github.io/IT-Certificates-Portfolio/)
 
 **🗣Spoken languages**:
 | Languages | CEFR Level |
