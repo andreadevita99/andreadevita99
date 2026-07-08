@@ -65,15 +65,15 @@
  - Graphic: [![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=canva,gimp-dark,figma-dark,blender-dark)](https://i.icoziv.workers.dev)
 
 ## **🚀Projects**:
-| HTML - CSS - JS | Python - Shell |
+| HTML - CSS - JS | Python - Bash - Shell |
 | --- | --- |
 | [🇦🇺 Australian To-Do List](https://andreadevita99.github.io/Australian-To-Do-List/) | [Mr.-Matrix](https://github.com/andreadevita99/Mr.-Matrix) |
-| [Startpage-Hub](https://andreadevita99.github.io/Startpage-Hub/) | [PyPassGen](https://github.com/andreadevita99/PyPassGen) |
-| [Clipt](https://andreadevita99.github.io/Clipt/) | [PyCalc](https://github.com/andreadevita99/PyCalc) |
-| [QR-Code-Generator](https://andreadevita99.github.io/QR-Code-Generator/) | [Python-Currency-Converter](https://github.com/andreadevita99/Python-Currency-Converter) |
-| [Text-to-Binary](https://andreadevita99.github.io/Text-to-Binary-Converter/) | [Guess-the-number-game](https://github.com/andreadevita99/Guess-the-number-game) |
-| [LEET-Converter](https://andreadevita99.github.io/Leet-Converter/) | [Python-Text-Encryptor](https://github.com/andreadevita99/Python-Text-Encryptor) |
-| [Rickroll](https://andreadevita99.github.io/rickroll/) | [Brew_up](https://github.com/andreadevita99/Brew_up) |
+| [Clipt](https://andreadevita99.github.io/Clipt/) | [PyPassGen](https://github.com/andreadevita99/PyPassGen) |
+| [Rickroll](https://andreadevita99.github.io/rickroll/) | [PyCalc](https://github.com/andreadevita99/PyCalc) |
+|  | [Python-Currency-Converter](https://github.com/andreadevita99/Python-Currency-Converter) |
+|  | [Guess-the-number-game](https://github.com/andreadevita99/Guess-the-number-game) |
+|  | [Python-Text-Encryptor](https://github.com/andreadevita99/Python-Text-Encryptor) |
+|  | [Brew_up](https://github.com/andreadevita99/Brew_up) |
 
 ## Check out my [<ins>🎓IT certifications</ins>](https://andreadevita99.github.io/IT-Certificates-Portfolio/)
 
