@@ -3,10 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=50&pause=1000&color=00FF00&vCenter=true&width=500&lines=%3CADV%2F%3E)](https://git.io/typing-svg)<br>
 
     root@terminal~$ whoami
-        📍 Based in 🇮🇹
-        🎂 XXVI - I - MCMXCIX
-        🩸 A.V.I.S. B+ group blood donor
-        🇯🇵 生田早見 ⛩
+        ⌨️Web dev📍Based in 🇮🇹
+        🚲Merida Silex & 🏎Ford Fiesta
+        🚁DJI Mini 4K & 🎥Insta360 GO 3S
 
 ## 🧑‍💻**IT Tech Support, Help Desk Specialist and Python and HTML, CSS, JS developer.**
 
