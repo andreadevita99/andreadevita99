@@ -28,7 +28,4 @@
 
 * [Python-Text-Encryptor](https://github.com/andreadevita99/Python-Text-Encryptor): a Python command-line tool for symmetric encryption and decryption of text messages.
 
-* [Brew_up](https://github.com/andreadevita99/Brew_up): a simple command-line tool to manage Homebrew.
-
-
 ## Check out my [<ins>🎓IT certifications</ins>](https://andreadevita99.github.io/IT-Certificates-Portfolio/) portfolio.
