@@ -1,4 +1,4 @@
-# 🧑‍💻**Web Developer | IT Support Specialist | Help Desk Technician**
+# 🧑‍💻**Developer | IT Support Specialist | Help Desk Technician**
 
 **✅Dev Stack**:
 ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=visualstudiocode-dark,html,css,javascript,python-dark,bash-dark,markdown-dark)
