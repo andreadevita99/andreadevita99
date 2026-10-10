@@ -3,8 +3,6 @@
 > ### **🧑‍💻IT Technical Support & Help Desk Specialist.**
 > ### **📍Based in 🇮🇹**
 
-// ❝🪐XXVI-I-MCMXCIX♒️🇯🇵生き甲斐🗻❞
-
 ### **✅Dev Stack**:
 ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=visualstudiocode-dark,html,css,javascript,python-dark,bash-dark,markdown-dark)
 
