@@ -1,7 +1,6 @@
 # **<👋Hello, World!/>**
 > ### **⌨️Web, Python and Bash developer.**
 > ### **🧑‍💻IT Technical Support & Help Desk Specialist.**
-> ### **📍Based in 🇮🇹**
 
 ### **✅Dev Stack**:
 ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=visualstudiocode-dark,html,css,javascript,python-dark,bash-dark,markdown-dark)
