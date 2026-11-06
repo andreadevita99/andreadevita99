@@ -11,26 +11,28 @@
 
 **🌐 HTML - CSS - JS**
 
-* [🇦🇺 Australian To-Do List](https://andreadevita99.github.io/Australian-To-Do-List/): a clean to-do list web app.
+ - [Brave's Terminal-inspired Startpage](https://andreadevita99.github.io/startpage/): a terminal-inspired startpage for Brave.
 
-* [Clipt](https://andreadevita99.github.io/Clipt/): a link-in-bio / Linktree inspired template.
+ - [🇦🇺 Australian To-Do List](https://andreadevita99.github.io/Australian-To-Do-List/): a clean to-do list web app, designed to remember to my parents what presents for me to bring back from their 2026 holiday summer trip to Australia.
 
-* [Rickroll](https://andreadevita99.github.io/rickroll/): you've just been Rick-rolled.
+ - [Clipt](https://andreadevita99.github.io/Clipt/): a link-in-bio / Linktree inspired template.
+
+ - [Rickroll](https://andreadevita99.github.io/rickroll/): you've just been Rick-rolled.
 
 **🐍 Python - Bash - Shell**
 
-* [Mr.-Matrix](https://github.com/andreadevita99/Mr.-Matrix): a terminal-based Matrix rain animation with a hacking-style boot sequence.
+ - [Mr.-Matrix](https://github.com/andreadevita99/Mr.-Matrix): a terminal-based Matrix rain animation with a hacking-style boot sequence.
   This project is a tribute to two iconic works: the TV series Mr. Robot and the movie Matrix.
 
-* [PyPassGen](https://github.com/andreadevita99/PyPassGen): a professional, entropy-aware password generator.
+ - [PyPassGen](https://github.com/andreadevita99/PyPassGen): a professional, entropy-aware password generator.
 
-* [PyCalc](https://github.com/andreadevita99/PyCalc): a terminal-based calculator that runs in a command-line interface.
+ - [PyCalc](https://github.com/andreadevita99/PyCalc): a terminal-based calculator that runs in a command-line interface.
 
-* [Python-Currency-Converter](https://github.com/andreadevita99/Python-Currency-Converter): command-line terminal-based Python currency converter that uses an external API to obtain up-to-date exchange rates.
+ - [Python-Currency-Converter](https://github.com/andreadevita99/Python-Currency-Converter): command-line terminal-based Python currency converter that uses an external API to obtain up-to-date exchange rates.
 
-* [Guess-the-number-game](https://github.com/andreadevita99/Guess-the-number-game): a simple command-line game where the player tries to guess a randomly generated number between 1 and 100.
+ - [Guess-the-number-game](https://github.com/andreadevita99/Guess-the-number-game): a simple command-line game where the player tries to guess a randomly generated number between 1 and 100.
 
-* [Python-Text-Encryptor](https://github.com/andreadevita99/Python-Text-Encryptor): a Python command-line tool for symmetric encryption and decryption of text messages.
+ - [Python-Text-Encryptor](https://github.com/andreadevita99/Python-Text-Encryptor): a Python command-line tool for symmetric encryption and decryption of text messages.
 
 ---
 
