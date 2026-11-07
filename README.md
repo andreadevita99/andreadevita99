@@ -29,6 +29,7 @@
  - [PyCalc](https://github.com/andreadevita99/PyCalc): a terminal-based calculator that runs in a command-line interface.
 
  - [Python-Currency-Converter](https://github.com/andreadevita99/Python-Currency-Converter): command-line terminal-based Python currency converter that uses an external API to obtain up-to-date exchange rates.
+ - [Python-Levenshtein-Distance-Calculator](https://github.com/andreadevita99/Python-Levenshtein-Distance-Calculator): A small interactive Python script that computes the Levenshtein distance between two words and shows the steps needed to turn the first one into the second.
 
  - [Guess-the-number-game](https://github.com/andreadevita99/Guess-the-number-game): a simple command-line game where the player tries to guess a randomly generated number between 1 and 100.
 
