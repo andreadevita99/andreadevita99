@@ -1,5 +1,5 @@
 # **<👋Hello, World!/>**
-> ### **⌨️Web, Python and Bash developer.**
+> ### **⌨️Front-end web dev.**
 > ### **🧑‍💻IT Technical Support & Help Desk Specialist.**
 
 ### **✅Dev Stack**:
