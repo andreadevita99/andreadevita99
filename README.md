@@ -11,9 +11,11 @@
 
 **🌐 HTML - CSS - JS**
 
+ - [AVIS-Card](https://andreadevita99.github.io/AVIS-Card/): versione digitalizzata della tessere del socio donatore dell'AVIS Comunale di Tradate.
+
  - [Brave's Terminal-inspired Startpage](https://andreadevita99.github.io/startpage/): a terminal-inspired startpage for Brave.
 
- - [🇦🇺 Australian To-Do List](https://andreadevita99.github.io/Australian-To-Do-List/): a clean to-do list web app, designed to remember to my parents what presents for me to bring back from their 2026 holiday summer trip to Australia.
+ - [🇦🇺 Australian To-Do List](https://andreadevita99.github.io/Australian-To-Do-List/): a clean to-do list web app, designed to remind my parents what gifts to bring me back from their 2026 summer trip to Australia.
 
  - [Clipt](https://andreadevita99.github.io/Clipt/): a link-in-bio / Linktree inspired template.
 
