@@ -1,5 +1,5 @@
 # **<👋Hello, World!/>**
-> ### **⌨️Front-end web dev.**
+> ### **Web developer.**
 > ### **🧑‍💻IT Technical Support & Help Desk Specialist.**
 
 ### **✅Dev Stack**:
