@@ -4,15 +4,16 @@
 
 #### 👦🏻 About me:
 - ⌨️ &nbsp;I'm a web developer and IT Technical Support-Help Desk Specialist
-- 📍 &nbsp;based in 🇮🇹, Milan
+- 📍 &nbsp;based in 🇮🇹Milan... *(for now)*
 - 🚁 &nbsp;A1-A3 licensed drone pilot
 - 🩸 &nbsp;AVIS blood and plasma voulounteer donor
+-  &nbsp;Apple guy
 
 #### 🏝 In my own time:
 - 🎧 &nbsp;Listening to music
 - 📚 &nbsp;Reading books and eBooks
 - 🚲 &nbsp;Cycling, 🏃Jogging-Running, 🏂Snowboarding
-- 📺 &nbsp;Watching documentaries on Netflix (*but also black humor related things*)
+- 📺 &nbsp;Watching documentaries on Netflix *(but also black humor related things)*
 - 🧱 &nbsp;Building LEGO sets
 
 <br>
