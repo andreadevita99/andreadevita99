@@ -1,3 +1,5 @@
+> ###### **🇺🇸English🇬🇧** | [🇮🇹Italiano🇮🇹](./README.it.md)
+
 ### 👋 Hi, I'm ```<Andrea De Vita/>```
 
 <br>
@@ -9,7 +11,7 @@
 - 🩸 &nbsp;AVIS blood and plasma voulounteer donor
 -  &nbsp;Apple fan
 
-#### 🏝 In my own time:
+#### 🏝 In my own time, I like:
 - 🎧 &nbsp;Listening to music
 - 📚 &nbsp;Reading books and eBooks
 - 🚲 &nbsp;Cycling, 🏃Jogging-Running, 🏂Snowboarding
