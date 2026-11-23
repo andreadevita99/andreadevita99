@@ -7,7 +7,7 @@
 - 📍 &nbsp;based in 🇮🇹Milan... *(for now)*
 - 🚁 &nbsp;A1-A3 licensed drone pilot
 - 🩸 &nbsp;AVIS blood and plasma voulounteer donor
--  &nbsp;Apple guy
+-  &nbsp;Apple fan
 
 #### 🏝 In my own time:
 - 🎧 &nbsp;Listening to music
