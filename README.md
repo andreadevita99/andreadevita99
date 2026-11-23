@@ -11,7 +11,7 @@
 #### 🏝 In my own time:
 - 🎧 &nbsp;Listening to music
 - 📚 &nbsp;Reading books and eBooks
-- 🚲 &nbsp;Cycling, 🏃Jogging and running, 🏂Snowboarding
+- 🚲 &nbsp;Cycling, 🏃Jogging-Running, 🏂Snowboarding
 - 📺 &nbsp;Watching documentaries on Netflix (*but also black humor related things*)
 - 🧱 &nbsp;Building LEGO sets
 
