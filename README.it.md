@@ -1,3 +1,5 @@
+###### [🇺🇸English🇬🇧](./README.md) | **🇮🇹Italiano🇮🇹**
+
 ### 👋 Ciao, sono ```<Andrea De Vita/>```
 
 <br>
