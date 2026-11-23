@@ -29,7 +29,7 @@
   </details>
 
   <details>
-    <summary><b>🐧 Linux</b></summary>
+    <summary><b>🐧 Linux distro</b></summary>
     <br>
     Ubuntu ∼ Pop!_OS ∼ Tails ∼ Qubes OS ∼ Kali Linux ∼ Parrot OS
   </details>
