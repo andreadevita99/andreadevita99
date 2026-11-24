@@ -5,7 +5,7 @@
 <br>
 
 #### 👦🏻 About me:
-- ⌨️ &nbsp;I'm a web developer and IT Technical Support-Help Desk Specialist
+- ⌨️ &nbsp;I'm a Front-end Dev & Web Designer | IT Support & Help Desk Specialist
 - 📍 &nbsp;based in 🇮🇹Milan... *(for now)*
 - 🚁 &nbsp;A1-A3 licensed drone pilot
 - 🩸 &nbsp;AVIS blood and plasma voulounteer donor
