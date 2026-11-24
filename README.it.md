@@ -39,7 +39,7 @@
   <details>
     <summary><b>🧰 Strumenti e Linguaggi per sviluppare</b></summary>
     <br>
-    VS Code ∼ Terminale ∼ HTML ∼ CSS ∼ JS ∼ Python ∼ Bash ∼ Markdown
+    VS Code ∼ Terminale ∼ HTML ∼ CSS ∼ JS ∼ Python ∼ Bash ∼ Markdown ∼ Figma
   </details>
 
   <details>
