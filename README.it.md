@@ -5,7 +5,7 @@
 <br>
 
 #### 👦🏻 Chi sono:
-- ⌨️ &nbsp;Sono un web developer e IT Technical Support-Help Desk Specialist
+- ⌨️ &nbsp;Sono un Front-end Dev & Web Designer | IT Support & Help Desk Specialist
 - 📍 &nbsp;con sede a 🇮🇹Milan... *(per ora)*
 - 🚁 &nbsp;pilota di droni con licenza A1-A3
 - 🩸 &nbsp;donatore volontario di sangue e plasma presso AVIS
