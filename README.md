@@ -39,7 +39,7 @@
   <details>
     <summary><b>🧰 Dev Tools & Languages</b></summary>
     <br>
-    VS Code ∼ Terminal ∼ HTML ∼ CSS ∼ JS ∼ Python ∼ Bash ∼ Markdown
+    VS Code ∼ Terminal ∼ HTML ∼ CSS ∼ JS ∼ Python ∼ Bash ∼ Markdown ∼ Figma
   </details>
 
   <details>
