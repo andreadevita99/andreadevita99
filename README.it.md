@@ -56,25 +56,6 @@
 
 </details>
 
-<details>
-  <summary><b>🚀 Progetti</b> <i>(clicca per guardare)</i></summary>
- 
-<br>
- 
- - [🩸 AVIS-Card](https://andreadevita99.github.io/AVIS-Card/): versione digitalizzata della tessera del donatore di AVIS Tradate.
-
- - [🚁 DroneHubLog](https://andreadevita99.github.io/DroneHub/): una web app per piloti e operatori di droni.
-
- - [🏡 Brave's Terminal-inspired Startpage](https://andreadevita99.github.io/startpage/): una startpage per il browser web Brave con il design ispirato al Terminale.
-
- - [🇦🇺 Australian To-Do List](https://andreadevita99.github.io/Australian-To-Do-List/): una web app to-do list.
-
- - [🌴 Clipt](https://andreadevita99.github.io/Clipt/): un template per il ink-in-bio ispirato al design di Linktree.
-
- - [🤡 Rickroll](https://andreadevita99.github.io/rickroll/): rick-roll.
-
-</details>
-
 <br>
 
 #### Guarda il mio portfolio: [<ins>🎓IT certifications</ins>](https://andreadevita99.github.io/IT-Certificates-Portfolio/).
