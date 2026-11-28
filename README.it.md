@@ -9,7 +9,6 @@
 - 📍 &nbsp;con sede a 🇮🇹Milan... *(per ora)*
 - 🚁 &nbsp;pilota di droni con licenza A1-A3
 - 🩸 &nbsp;donatore volontario di sangue e plasma presso AVIS
--  &nbsp;Apple fan
 
 #### 🏝 Nel mio tempo libero:
 - 🎧 &nbsp;Ascolto musica
